@@ -19,6 +19,6 @@ My name is **Ndumiso Mbangeleli**. I am from Aston University studying a BSc in 
 I have an interest in software engineeing and full stack development.
 I love tackling new challenges and learning new things!
 
-- 🔭 I’m currently working on this page 
-- 🌱 I’m currently learning front-end development with TheOdinProject!
+- 🔭 I’m currently working with Play2Earn as a Gaming intern!
+- 🌱 I’m currently learning front-end development with React and Tailwind CSS. I also spend some time learning on TheOdinProject!
 - 📫 How to reach me: LinkedIn - Ndumiso Mbangeleli | Instagram: ndusprofile
