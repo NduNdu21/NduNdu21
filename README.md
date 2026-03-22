@@ -19,7 +19,7 @@ My name is **Ndumiso Mbangeleli**. I am from Aston University studying a BSc in 
 I have an interest in software engineeing and full stack development.
 I love tackling new challenges and learning new things!
 
-- 🌱 I’m currently learning web app development with the FNB App Academy. I also spend some time learning full-stack development on TheOdinProject!
+- 🌱 I've completed learning web app development with the FNB App Academy. I also spend some time learning full-stack development on TheOdinProject!
 - 📫 How to reach me: LinkedIn - Ndumiso Mbangeleli | Instagram: ndusprofile
 
 ### Frameworks & Programming Languages 
